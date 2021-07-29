@@ -55,5 +55,30 @@ trackList = [
       artist:"BAE",
       src:"music/SB.mp3"
     },
+    {
+      name:"Stitches",
+      artist:"Shawn Mendes",
+      src:"music/SS.mp3"
+    },
+    {
+      name:"Pop Lock Funk",
+      artist:"Dogg Master",
+      src:"music/DP.mp3"
+    },
+    {
+      name:"Alles Gute",
+      artist:"Mathea",
+      src:"music/MA.mp3"
+    },
+    {
+      name:"Kisetsuhatsugitsugishindeiku",
+      artist:"amazarashi",
+      src:"music/AK.mp3"
+    },
+    {
+      name:"Half",
+      artist:"Queen Bee",
+      src:"music/QB.mp3"
+    },
     
 ];
