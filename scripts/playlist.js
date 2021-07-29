@@ -40,5 +40,20 @@ trackList = [
       artist:"HouseRulez",
       src:"music/SH.mp3"
     },
+    {
+      name:"Bring It All Back",
+      artist:"S Club 7",
+      src:"music/BS.mp3"
+    },
+    {
+      name:"Jealous",
+      artist:"Chromeo",
+      src:"music/JC.mp3"
+    },
+    {
+      name:"Suede",
+      artist:"BAE",
+      src:"music/SB.mp3"
+    },
     
 ];
