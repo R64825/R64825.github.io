@@ -1,29 +1,29 @@
 trackList = [
 
     {
-      name:"乙女解剖",
-      artist:"okayu",
-      src:"music/1.mp3"
+      name:"Dance Or Die",
+      artist:"Brooklyn Funk Essentials ",
+      src:"music/Brooklyn Funk Essentials  Dance Or Die.mp3"
     },
     {
-      name:"ヴァンパイア",
-      artist:"aqua",
-      src:"music/2.mp3"
+      name:"Safe and Sound",
+      artist:"Capital Cities",
+      src:"music/Capital Cities  Safe and Sound lyrics.mp3"
     },
     {
-      name:"少女レイ",
-      artist:"suisei",
-      src:"music/3.mp3"
+      name:"Favorite Record Audio",
+      artist:"Fall Out Boy",
+      src:"music/Fall Out Boy  Favorite Record Audio.mp3"
     },
     {
-      name:"flos",
-      artist:"okayu",
-      src:"music/4.mp3"
+      name:"Holiday",
+      artist:"Madonna",
+      src:"music/Madonna Holiday Lyrics.mp3"
     },
     {
-      name:"少女レイ",
-      artist:"ayame",
-      src:"music/5.mp3"
+      name:"Rude",
+      artist:"MAGIC",
+      src:"music/MAGIC  Rude Lyrics.mp3"
     },
           
 ];
