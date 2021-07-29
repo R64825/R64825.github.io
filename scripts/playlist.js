@@ -3,7 +3,7 @@ trackList = [
     {
       name:"Dance Or Die",
       artist:"Brooklyn Funk Essentials ",
-      src:"BD.mp3"
+      src:"music/BD.mp3"
     },
     {
       name:"Safe and Sound",
