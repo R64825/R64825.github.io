@@ -25,5 +25,20 @@ trackList = [
       artist:"MAGIC",
       src:"music/MR.mp3"
     },
-          
+    {
+      name:"Collect My Love",
+      artist:"The Knocks",
+      src:"music/KC.mp3"
+    },
+    {
+      name:"保持帥哥",
+      artist:"Trout Fresh",
+      src:"music/TK.mp3"
+    },
+    {
+      name:"Surfing Wave",
+      artist:"HouseRulez",
+      src:"music/SH.mp3"
+    },
+    
 ];
