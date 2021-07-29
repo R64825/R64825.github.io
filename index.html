@@ -1,9 +1,40 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Hello</title>
-  </head>
-  <body>
-    <h1>Music Website</h1>
-  </body>
+	<head>
+		<title>QQmusic</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+<body>
+    <div id="container">
+  
+		<audio id="audio">
+			<source id="sourceMP3" src="" type="audio/ogg">
+		</audio>
+      
+		<div id="wrapper">
+		<div id="trackInfo">
+			<div id="titleText">.</div>
+			<div id="albumText">.</div>
+			<div id="artistText">.</div>
+		</div>
+		
+		<div id="timeInfo">
+			<div><div id="timeBar"><div class="filler"></div></div></div>
+			<div id="timeText"></div>
+		</div>
+		
+		<div id="controls">
+			<div class="button" id="playBtn"><img src="icons/play.png"></div>
+			<div class="button" id="previousBtn"><img src="icons/rewind.png"></div>
+			<div class="button" id="nextBtn"><img src="icons/forward.png"></div>
+			<div id="volumeIcon"><img src="icons/volume.png"></div>
+			<div><div id="volumeSlider"><div class="filler"></div></div></div>
+		</div>
+	</div>
+  
+	<script src="scripts/sliderfy.js"></script>
+	<script src="scripts/playlist.js"></script>
+	<script src="scripts/controls.js"></script>
+</body>
 </html>
