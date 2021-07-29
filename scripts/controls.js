@@ -50,7 +50,6 @@ audio.addEventListener("loadeddata",function(){
   var filename = playlist.getActive().src;
   
   titleText.textContent = playlist.getActive().name || "Unknown Title";
-  albumText.textContent = playlist.getActive().album || "Unknown Album";
   artistText.textContent = playlist.getActive().artist || "Unknown Artist";
 });
 
