@@ -8,22 +8,22 @@ trackList = [
     {
       name:"Safe and Sound",
       artist:"Capital Cities",
-      src:"music/Capital Cities  Safe and Sound lyrics.mp3"
+      src:"music/CS.mp3"
     },
     {
       name:"Favorite Record",
       artist:"Fall Out Boy",
-      src:"music/Fall Out Boy  Favorite Record Audio.mp3"
+      src:"music/FF.mp3"
     },
     {
       name:"Holiday",
       artist:"Madonna",
-      src:"music/Madonna Holiday Lyrics.mp3"
+      src:"music/MH.mp3"
     },
     {
       name:"Rude",
       artist:"MAGIC",
-      src:"music/MAGIC  Rude Lyrics.mp3"
+      src:"music/MR.mp3"
     },
           
 ];
