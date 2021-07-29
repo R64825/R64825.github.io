@@ -11,7 +11,7 @@ trackList = [
       src:"music/Capital Cities  Safe and Sound lyrics.mp3"
     },
     {
-      name:"Favorite Record Audio",
+      name:"Favorite Record",
       artist:"Fall Out Boy",
       src:"music/Fall Out Boy  Favorite Record Audio.mp3"
     },
