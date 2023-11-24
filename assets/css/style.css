@@ -413,6 +413,19 @@ h3 {
   text-transform: uppercase;
 }
 
+#education .card-action {
+  background-color: rgba(0, 0, 0, 0.02);
+  border: none;
+}
+
+#education .card .col.s12.m2 a {
+  display: block;
+}
+
+#education .card .col.s12.m2 a img {
+  max-height: 60px;
+}
+
 #experience .card-action {
   background-color: rgba(0, 0, 0, 0.02);
   border: none;
@@ -506,6 +519,10 @@ a.hoverline:hover {
   padding-bottom: 10px;
 }
 
+#education .card-content .row {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
 .card.large .card-image {
   height: 230px;
 }
@@ -529,6 +546,9 @@ a.hoverline:hover {
 }
 
 #experience .col.s12.m2 {
+  text-align: center;
+}
+#education .col.s12.m2 {
   text-align: center;
 }
 
@@ -568,6 +588,11 @@ small {
 
 @media (min-width: 1200px) {
   #experience .container {
+    width: 860px;
+  }
+}
+@media (min-width: 1200px) {
+  #education .container {
     width: 860px;
   }
 }
@@ -673,6 +698,14 @@ small {
   #experience span.card-title a {
     margin: 0;
   }
+  #education span.card-title {
+    text-align: center;
+    display: block;
+  }
+  #education span.card-title a {
+    margin: 0;
+  }
+  education
   i.mdi-navigation-close.right {
     position: relative;
     bottom: 15px;
